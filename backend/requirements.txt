@@ -1,0 +1,5 @@
+fastapi>=0.95.0
+uvicorn>=0.22.0
+llama-index>=0.10.0
+openai>=1.0.0  # Or 'mistralai' for Mistral
+python-dotenv>=0.19.0
